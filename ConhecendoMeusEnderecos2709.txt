@@ -1,0 +1,12 @@
+Gabriela Lima
+
+Endereço IP público: IPv6: 2804:14d:7284:9f70:dc:35f9:9b9d:5473 / IPv4: 187.107.11.116
+Endereço IP privado e sua máscara de rede: Endereço IPv4 : 192.168.0.38 / Máscara de Sub-rede: 255.255.255.0
+Endereço MAC:  Endereço Físico: A4-63-A1-63-E9-8D
+
+
+Os IPs público e privado pertencem à qual classe de rede? B e C, respectivamente
+Que informações podemos obter do nosso endereço MAC?
+Vamos acessar o endereço https://macvendors.com e verificar qual é a marca de nossa placa de rede.
+Inventus Power Eletronica do Brasil LTDA
+
